@@ -228,11 +228,13 @@ Business-KPI-Dashboard/
 
 ## 📥 Project Files
 
-* 📊 **[Download Excel Dashboard]https://github.com/Murtazakhan07/Business_KPI-s_Dashboard_Excel/blob/main/Business_%20KPIS%20_Dashboard_%20Excel..xlsm
-* 📂 **[View Dataset]https://github.com/Murtazakhan07/Business_KPI-s_Dashboard_Excel/blob/main/Data%20File.xlsx
-* 🖼️ **[View Dashboard Screenshot]https://github.com/Murtazakhan07/Business_KPI-s_Dashboard_Excel/blob/main/Business%20KPIs%20Dashboard.png
+* 📊 **[Download Excel Dashboard](https://github.com/Murtazakhan07/Business_KPI-s_Dashboard_Excel/blob/main/Business%20KPIs%20Dashboard.png)
+
+* 📂 **[View Dataset](https://github.com/Murtazakhan07/Business_KPI-s_Dashboard_Excel/blob/main/Data%20File.xlsx)
+* 🖼️ **[View Dashboard Screenshot]<img width="1540" height="560" alt="Business KPIs Dashboard" src="https://github.com/user-attachments/assets/ebdd345d-8579-412f-a5f8-6823a762da39" />
+
 * 📊 **[View Pivot Table Screenshots]<img width="1113" height="569" alt="4" src="https://github.com/user-attachments/assets/8cd52162-b7bf-4e61-84fe-ce11bd684ef1" />
-* 🎥 **[Watch Dashboard Demo] https://github.com/Murtazakhan07/Business_KPI-s_Dashboard_Excel/blob/main/Media1.mp4
+  
   
 
 ---
