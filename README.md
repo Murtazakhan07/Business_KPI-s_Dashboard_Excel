@@ -28,7 +28,7 @@ The dashboard allows users to analyze:
 
 👉 **[View Dashboard Screenshot]<img width="1540" height="560" alt="Business KPIs Dashboard" src="https://github.com/user-attachments/assets/d5ca0abf-55e9-47c7-85da-6e08194be715" />
 ## Dashboard Demo
-https://github.com/Murtazakhan07/Business_KPI-s_Dashboard_Excel/blob/main/Media1.mp4
+(https://github.com/Murtazakhan07/Business_KPI-s_Dashboard_Excel/blob/main/Media1.mp4)
 
 ## 🎯 Project Objectives
 
@@ -108,7 +108,7 @@ Pivot Tables were used to summarize and analyze the raw website traffic data bef
 
 ### 🎥 Pivot Table Video
 
-👉 **[Watch Pivot Table Analysis Video]https://github.com/Murtazakhan07/Business_KPI-s_Dashboard_Excel/blob/main/Media1.mp4
+👉 **[Watch Pivot Table Analysis Video](https://github.com/Murtazakhan07/Business_KPI-s_Dashboard_Excel/blob/main/Media1.mp4)
 
 ---
 
